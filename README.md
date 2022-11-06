@@ -1,0 +1,2 @@
+# tamagoshi
+tamagoshi em python
